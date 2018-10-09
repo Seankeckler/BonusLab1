@@ -1,0 +1,7 @@
+C:\Users\seank\source\repos\BonusExercise1\BonusExercise1\obj\Debug\BonusExercise1.csprojAssemblyReference.cache
+C:\Users\seank\source\repos\BonusExercise1\BonusExercise1\obj\Debug\BonusExercise1.csproj.CoreCompileInputs.cache
+C:\Users\seank\source\repos\BonusExercise1\BonusExercise1\bin\Debug\BonusExercise1.exe.config
+C:\Users\seank\source\repos\BonusExercise1\BonusExercise1\bin\Debug\BonusExercise1.exe
+C:\Users\seank\source\repos\BonusExercise1\BonusExercise1\bin\Debug\BonusExercise1.pdb
+C:\Users\seank\source\repos\BonusExercise1\BonusExercise1\obj\Debug\BonusExercise1.exe
+C:\Users\seank\source\repos\BonusExercise1\BonusExercise1\obj\Debug\BonusExercise1.pdb
